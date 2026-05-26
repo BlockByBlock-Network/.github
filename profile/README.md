@@ -31,7 +31,7 @@ Reward real people for real impact, block by block.
 
 ---
 
-**Stage:** Pre-MVP, Pre-Funding  
+**Stage:** Pre-Public-Beta, Pre-Funding  
 **Contact:** [team@blockbyblock.network](mailto:team@blockbyblock.network)  
 **Website** [blockbyblock.network](https://blockbyblock.network)
 
